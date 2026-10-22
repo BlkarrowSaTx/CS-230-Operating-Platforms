@@ -1,6 +1,6 @@
 # CS 230: Operating Platforms
 
-##The Gaming Room – Draw It or Lose It 
+## The Gaming Room – Draw It or Lose It 
 
 My software design document for The Gaming Room can be found in this repo as well as my retrospective. I will go over all of the requirements and how I met them. I went over the different requirements that the software should have, domain model(uml) and which platforms to use and what I decided to use. 
 
